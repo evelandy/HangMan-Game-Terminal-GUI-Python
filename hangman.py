@@ -1,3 +1,10 @@
+#!/usr/bin/env python3
+"""evelandy/W.G.
+Apr. 21 2019 3:16pm
+HangMan Game 
+Python36-32 
+"""
+
 import random
 
 # Word Lists
